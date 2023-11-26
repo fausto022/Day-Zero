@@ -23,4 +23,5 @@ git clone https://github.com/fausto022/faustos-abstract.git
 Then, I'm using VS Code's _Live Server_ extension to get it running.  
 Future versions of this project will be hosted (once I learn how to do so)
 
-![image](https://github.com/fausto022/hello-static-page/assets/30608464/407d6a18-de60-4a03-91a7-b6c2d4bb5e52)
+![image](https://github.com/fausto022/Day-Zero/assets/30608464/9e393f94-b877-4e80-82f1-eefa45ac2657)
+
